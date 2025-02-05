@@ -1,6 +1,6 @@
 # Ryan Lopes Martins
 
-![Static Badge](https://img.shields.io/badge/-Ryan%20Martins-B11313?style=flat-square&link=%20www.linkedin.com%2Fin%2Fryan-lopes-martins)
+[![Static Badge](https://img.shields.io/badge/-Ryan%20Martins-B11313?style=flat-square&link=%20www.linkedin.com%2Fin%2Fryan-lopes-martins)](https://www.linkedin.com/in/ryan-lopes-martins)
 
 ##### I build my own world through code, creating solutions and learning along the way.
 
