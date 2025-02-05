@@ -1,5 +1,8 @@
 # Ryan Lopes Martins
 
+![Static Badge](https://img.shields.io/badge/-Ryan%20Martins-B11313?style=flat-square)
+
+
 ##### I build my own world through code, creating solutions and learning along the way.
 
 ##### I am an enthusiast of efficient code and minimalist UI/UX design
