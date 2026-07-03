@@ -1,13 +1,31 @@
-# Ryan Lopes Martins
+# Olá, eu sou Ryan Lopes Martins 👋
 
-[![Static Badge](https://img.shields.io/badge/-Ryan%20Martins-B11313?style=flat-square&link=%20www.linkedin.com%2Fin%2Fryan-lopes-martins)](https://www.linkedin.com/in/ryan-lopes-martins)
+🎓 Estudante de Segurança da Informação
 
-##### I build my own world through code, creating solutions and learning along the way.
+🎯 Objetivo:
+Conquistar minha primeira oportunidade na área de Cibersegurança.
 
-##### I am an enthusiast of efficient code and minimalist UI/UX design
+## Atualmente estudando
 
-##### My goal is to help beginners learn programming by embracing my own journey as a beginner, discovering the true meaning of coding and the endless possibilities it holds.
+- Linux
+- Redes de Computadores
+- Python
+- Windows Server
+- Active Directory
+- Nmap
+- Wireshark
+- Burp Suite
+- Git e GitHub
 
-"I'm just a guy who's trying to make a difference."
+## Ferramentas
 
-##### #Lifelong Learning
+- Kali Linux
+- Ubuntu
+- Windows Server
+- Neovim
+- VS Code
+- Git
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/ryanlopesmartins/
